@@ -117,7 +117,7 @@ class FizzBuzz {
 }
 ```
 
-- [ ] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
+- [X] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
 
 If you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
 by right-clicking the `src` directory in the `Project` tab and near the bottom of the context menu
@@ -303,7 +303,7 @@ ways to help you resolve such conflicts without too much difficulty.
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
 
-- [ ] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
+- [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
 
